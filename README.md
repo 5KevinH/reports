@@ -1,5 +1,7 @@
 # reports
 
-Trend following trading system based on Systematic Trading book by @robcarver17
+Trading system based on the framework described in "Systematic Trading" by @robcarver17
 
-Auto generated reports from systematic trading.
+Rob Carver's book, my Python code.
+
+This repository contains automatically generated reports from the trading system.
