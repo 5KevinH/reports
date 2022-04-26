@@ -1,9 +1,12 @@
 # reports
 
-Trading system based on the framework described in "Systematic Trading" by @robcarver17
-
+System 30:
+Trading system based on the framework described in "Systematic Trading" by @robcarver17.
 Rob Carver's book, my Python code.
 
-This repository contains automatically generated reports from the trading system.
+System 63:
+Trading system based on a selection of the Turtles' original trading rules.
+
+This repository contains automatically generated reports from both trading systems.
 
 Contact via Twitter: @LakeNews (Kevin Hughes)
