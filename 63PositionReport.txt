@@ -1,7 +1,7 @@
----------------- Position Report ----------------
+---------------- Position Report - Account: Uxxxxx63 ----------------
 
-As at: 2022-04-25 21:27:00 (Chicago)
-(Home currency: AUD)
+As at: 2022-04-26 16:27:00 (Chicago)
+(Home currency: AUD - Convert to USD at: 0.7135)
 
 mySymbol localSymbol  multiplier  maxContracts  ltBO  stBO  initialStop  target  position
       E7        E7M2     62500.0             2  40.0  20.0     1.081317      -1        -1
@@ -18,8 +18,8 @@ mySymbol localSymbol  multiplier  maxContracts  ltBO  stBO  initialStop  target 
       HE        LHM2     40000.0             1  40.0  20.0     0.000000       0         0
       LE        LEM2     40000.0             2  40.0  20.0     0.000000       0         0
      MGC       MGCM2        10.0             4  40.0  20.0  1920.523296      -2        -2
-     SIL       SILN2      1000.0             2  40.0  20.0    24.418343       0         0
+     SIL       SILN2      1000.0             2  40.0  20.0    24.135166       0         0
      MCL       MCLM2       100.0             2  40.0  20.0     0.000000       0         0
       QG        QGM2      2500.0             1  40.0  20.0     0.000000       0         0
 
-Trading capital: 111127
+Trading capital: 112816
