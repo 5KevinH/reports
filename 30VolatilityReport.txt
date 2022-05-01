@@ -1,6 +1,6 @@
 ---------------- Volatility Report - Account: Uxxxxx30 ----------------
 
-As at: 2022-04-29 19:06:02 (Chicago)
+As at: 2022-05-01 02:26:02 (Chicago)
 
 mySymbol  weight  maxContracts  volTargetA forecast volatilityI position volatilityS
       E7   0.065           2.0        0.25   -17.61      0.0286       -2      0.0572
