@@ -1,6 +1,6 @@
 ---------------- Position Report - Account: Uxxxxx30 ----------------
 
-As at: 2022-04-29 16:26:01 (Chicago)
+As at: 2022-04-29 19:06:01 (Chicago)
 (Home currency: AUD - Convert to USD at: 0.7064)
 
 mySymbol localSymbol     price  multiplier  blockValue  priceVol  volBase  volHome  volScalar  forecast  weight  targetF20  target  maxCont  position

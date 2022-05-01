@@ -1,6 +1,6 @@
 ---------------- Position Report - Account: Uxxxxx63 ----------------
 
-As at: 2022-04-29 16:27:00 (Chicago)
+As at: 2022-04-29 19:07:00 (Chicago)
 (Home currency: AUD - Convert to USD at: 0.7065)
 
 mySymbol localSymbol  multiplier        ATR  fractTarget  ltBO  stBO  initialStop  target  position
