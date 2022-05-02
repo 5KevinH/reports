@@ -1,30 +1,30 @@
 ---------------- Risk Report - Account: Uxxxxx63 ----------------
 
-As at: 2022-05-01 02:27:00 (Chicago)
-(Home currency: AUD - Convert to USD at: 0.7065)
+As at: 2022-05-02 15:57:00 (Chicago)
+(Home currency: AUD - Convert to USD at: 0.7053)
 
 mySymbol localSymbol     price multiplier pointSizeBase position  exposure exposurePCapital
-      E7        E7M2     1.057    62500.0      88466.14       -1 -93491.02            -81.8
-      J7        J7M2     0.008  6250000.0    8846613.87        0      0.00              0.0
-      ZF ZF   JUN 22   112.547     1000.0       1415.46        0      0.00              0.0
-      ZN ZN   JUN 22   118.984     1000.0       1415.46        0      0.00              0.0
-     M2K       M2KM2  1858.900        5.0          7.08       -2 -26311.95            -23.0
-     MES       MESM2  4122.500        5.0          7.08       -1 -29176.13            -25.5
-     MNQ       MNQM2 12841.000        2.0          2.83        0      0.00              0.0
-     MYM MYM  JUN 22 32846.000        0.5          0.71        0      0.00              0.0
-      YC XC   JUL 22   812.750       10.0         14.15        3  34512.41             30.2
-      YK XK   JUL 22  1684.625       10.0         14.15        0      0.00              0.0
-      YW XW   JUL 22  1052.750       10.0         14.15        0      0.00              0.0
-      HE        LHM2   106.450      400.0        566.18        0      0.00              0.0
-      LE        LEM2   132.950      400.0        566.18        0      0.00              0.0
-     MGC       MGCM2  1897.900       10.0         14.15       -2 -53727.96            -47.0
-     SIL       SILN2    22.800     1000.0       1415.46       -1 -32272.45            -28.3
-     MCL       MCLM2   104.250      100.0        141.55        0      0.00              0.0
-      QG        QGM2     7.285     2500.0       3538.65        0      0.00              0.0
+      E7        E7M2     1.052    62500.0      88620.43       -1 -93273.00            -81.1
+      J7        J7M2     0.008  6250000.0    8862042.81        0      0.00              0.0
+      ZF ZF   JUN 22   112.242     1000.0       1417.93        0      0.00              0.0
+      ZN ZN   JUN 22   118.344     1000.0       1417.93        0      0.00              0.0
+     M2K       M2KM2  1878.500        5.0          7.09       -2 -26635.76            -23.1
+     MES       MESM2  4148.250        5.0          7.09       -1 -29409.58            -25.6
+     MNQ       MNQM2 13071.250        2.0          2.84        0      0.00              0.0
+     MYM MYM  JUN 22 32958.000        0.5          0.71        0      0.00              0.0
+      YC XC   JUL 22   803.750       10.0         14.18        3  34189.76             29.7
+      YK XK   JUL 22  1645.125       10.0         14.18        0      0.00              0.0
+      YW XW   JUL 22  1051.500       10.0         14.18        0      0.00              0.0
+      HE        LHM2   105.075      400.0        567.17        0      0.00              0.0
+      LE        LEM2   135.050      400.0        567.17        0      0.00              0.0
+     MGC       MGCM2  1862.700       10.0         14.18       -2 -52823.45            -45.9
+     SIL       SILN2    22.660     1000.0       1417.93       -1 -32130.22            -27.9
+     MCL       MCLM2   105.680      100.0        141.79        0      0.00              0.0
+      QG        QGM2     7.580     2500.0       3544.82        0      0.00              0.0
 
-Trading capital: 114223
+Trading capital: 115079
 Initial risk as % of capital: 0.5%
-Sum of abs(Notional exposure as % of capital): 235.8
+Sum of abs(Notional exposure as % of capital): 233.3
 
-Initial margin as % of capital: 19.1%
-Maintenance margin as % of capital: 15.6%
+Initial margin as % of capital: 19.5%
+Maintenance margin as % of capital: 15.9%
