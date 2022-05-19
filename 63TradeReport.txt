@@ -1,9 +1,9 @@
 ---------------- Trade Report - Account: Uxxxxx63 ----------------
 
-As at: 2022-05-18 15:57:00 (Chicago)
-(Home currency: AUD - Convert to USD at: 0.6960)
+As at: 2022-05-19 15:57:01 (Chicago)
+(Home currency: AUD - Convert to USD at: 0.7055)
 
-Orders placed and filled after 2022-05-17 15-57-00
+Orders placed and filled after 2022-05-18 15-57-00
 ------------------------------------------------------------------
 
 Orders Placed
