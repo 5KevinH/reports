@@ -1,23 +1,24 @@
 ---------------- Trade Report - Account: Uxxxxx63 ----------------
 
-As at: 2022-05-31 15:57:01 (Chicago)
-(Home currency: AUD - Convert to USD at: 0.7176)
+As at: 2022-06-01 15:57:00 (Chicago)
+(Home currency: AUD - Convert to USD at: 0.7178)
 
-Orders placed and filled after 2022-05-30 15-57-01
+Orders placed and filled after 2022-05-31 15-57-00
 ------------------------------------------------------------------
 
 Orders Placed
 -------------
 
- myOrderId                   datetime mySymbol     conId  clientId    permId action  quantity orderType  lmtPrice
-      2634 2022-05-31 08:57:12.932633      MES 477837011        63 490363965    BUY       1.0       LMT  4121.250
-      2637 2022-05-31 08:57:14.955372       YW 374571830        63 490363966   SELL       1.0       LMT  1110.625
-      2700 2022-05-31 10:27:13.855730       YK 341629332        63 490364033   SELL       1.0       LMT  1694.750
+ myOrderId                   datetime mySymbol     conId  clientId     permId action  quantity orderType  lmtPrice
+      2763 2022-06-01 09:57:13.836448       YC 345852357        63 1610020700   SELL       1.0       LMT   732.000
+      2826 2022-06-01 10:02:13.708785       YC 345852357        63 1610020711   SELL       1.0       LMT   731.125
+      2889 2022-06-01 10:07:15.299562       YC 345852357        63 1610020722   SELL       1.0       LMT   726.375
+      2952 2022-06-01 10:12:13.079174       YC 345852357        63 1610020734   SELL       1.0       LMT   730.125
 
 Orders Filled
 -------------
 
- fillId localSymbol                myExecId                  datetime side  quantity    price  commission
-    797       MESM2 0000d8df.62958630.01.01 2022-05-31 08:57:11-05:00  BOT       1.0 4121.250        0.57
-    798 XW   JUL 22 0000da9e.62954587.01.01 2022-05-31 08:57:59-05:00  SLD       1.0 1110.625        1.90
-    799 XK   JUL 22 0000da9e.62954ae0.01.01 2022-05-31 10:27:14-05:00  SLD       1.0 1694.750        1.90
+ fillId localSymbol                myExecId                  datetime side  quantity   price  commission
+    800 XC   JUL 22 0000da9e.62969a23.01.01 2022-06-01 09:57:21-05:00  SLD       1.0 732.000         1.9
+    801 XC   JUL 22 0000da9e.62969abc.01.01 2022-06-01 10:07:23-05:00  SLD       1.0 726.375         1.9
+    802 XC   JUL 22 0000da9e.62969af6.01.01 2022-06-01 10:12:37-05:00  SLD       1.0 730.125         1.9
