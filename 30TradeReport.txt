@@ -1,19 +1,25 @@
 ---------------- Trade Report - Account: Uxxxxx30 ----------------
 
-As at: 2022-06-01 15:56:02 (Chicago)
-(Home currency: AUD - Convert to USD at: 0.7178)
+As at: 2022-06-02 15:56:02 (Chicago)
+(Home currency: AUD - Convert to USD at: 0.7265)
 
-Orders placed and filled after 2022-05-31 15-56-01
+Orders placed and filled after 2022-06-01 15-56-02
 ------------------------------------------------------------------
 
 Orders Placed
 -------------
 
- myOrderId                   datetime mySymbol     conId  clientId     permId action  quantity orderType  lmtPrice
-      2748 2022-06-01 08:56:17.474532       YW 374571830        30 1610020645   SELL       1.0       LMT  1085.375
+ myOrderId                   datetime mySymbol     conId  clientId    permId action  quantity orderType    lmtPrice
+      2811 2022-06-02 08:56:15.794179       J7 532281605        30 195541592    BUY       1.0       LMT    0.007699
+      2814 2022-06-02 08:56:17.825501       J7 550123219        30 195541593   SELL       1.0       LMT    0.007741
+      2877 2022-06-02 09:01:15.328792       J7 550123219        30 195541616   SELL       1.0       LMT    0.007740
+      2940 2022-06-02 09:06:15.566159       J7 550123219        30 195541628   SELL       1.0       LMT    0.007737
+      3003 2022-06-02 10:56:14.122606      M2K 477836981        30 195541746    BUY       1.0       LMT 1881.400000
 
 Orders Filled
 -------------
 
- fillId localSymbol                myExecId                  datetime side  quantity    price  commission
-    779 XW   JUL 22 0000da9e.6296949c.01.01 2022-06-01 08:56:17-05:00  SLD       1.0 1085.375         1.9
+ fillId localSymbol                myExecId                  datetime side  quantity       price  commission
+    780        J7M2 0000d8ee.6297e3b8.01.01 2022-06-02 08:56:18-05:00  BOT       1.0    0.007699        1.37
+    781        J7U2 0000d8ee.6297e3d1.01.01 2022-06-02 09:06:50-05:00  SLD       1.0    0.007737        1.37
+    782       M2KM2 0000d8df.62985641.01.01 2022-06-02 10:56:24-05:00  BOT       1.0 1881.400000        0.57
