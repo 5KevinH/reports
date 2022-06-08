@@ -1,17 +1,25 @@
 ---------------- Trade Report - Account: Uxxxxx30 ----------------
 
-As at: 2022-06-07 15:56:02 (Chicago)
-(Home currency: AUD - Convert to USD at: 0.7238)
+As at: 2022-06-08 15:56:02 (Chicago)
+(Home currency: AUD - Convert to USD at: 0.7193)
 
-Orders placed and filled after 2022-06-06 15-56-02
+Orders placed and filled after 2022-06-07 15-56-02
 ------------------------------------------------------------------
 
 Orders Placed
 -------------
 
-No orders placed
+ myOrderId                   datetime mySymbol     conId  clientId    permId action  quantity orderType  lmtPrice
+      3066 2022-06-08 08:56:16.634353      MYM 497954503        30 709873858    BUY       1.0       LMT 33114.000
+      3069 2022-06-08 08:56:18.664523       YC 345852357        30 709873859    BUY       1.0       LMT   770.375
+      3072 2022-06-08 08:56:20.696593       YK 341629332        30 709873860    BUY       1.0       LMT  1755.750
+      3135 2022-06-08 11:56:15.708597       YC 345852357        30 709874049   SELL       1.0       LMT   762.375
 
 Orders Filled
 -------------
 
-No orders filled
+ fillId localSymbol                myExecId                  datetime side  quantity     price  commission
+    783 MYM  JUN 22 0000da72.629fcf18.01.01 2022-06-08 08:56:15-05:00  BOT       1.0 33114.000        0.57
+    784 XC   JUL 22 0000da9e.629fcf53.01.01 2022-06-08 08:56:19-05:00  BOT       1.0   770.375        1.90
+    785 XK   JUL 22 0000da9e.629fcf54.01.01 2022-06-08 08:56:29-05:00  BOT       1.0  1755.750        1.90
+    786 XC   JUL 22 0000da9e.629fd431.01.01 2022-06-08 11:56:19-05:00  SLD       1.0   762.375        1.90
