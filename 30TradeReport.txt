@@ -1,23 +1,23 @@
 ---------------- Trade Report - Account: Uxxxxx30 ----------------
 
-As at: 2022-06-15 15:56:02 (Chicago)
-(Home currency: AUD - Convert to USD at: 0.7009)
+As at: 2022-06-16 15:56:01 (Chicago)
+(Home currency: AUD - Convert to USD at: 0.7053)
 
-Orders placed and filled after 2022-06-14 15-56-02
+Orders placed and filled after 2022-06-15 15-56-01
 ------------------------------------------------------------------
 
 Orders Placed
 -------------
 
  myOrderId                   datetime mySymbol     conId  clientId     permId action  quantity orderType  lmtPrice
-        63 2022-06-15 09:26:26.084520       YC 345852357        30 1261868291    BUY       1.0       LMT     777.0
-       126 2022-06-15 12:26:25.905363      MGC 447767096        30 1261868304   SELL       1.0       LMT    1819.9
-       189 2022-06-15 13:56:25.343678      MGC 447767096        30 1261868319    BUY       1.0       LMT    1835.2
+       252 2022-06-16 08:56:26.446308      MGC 447767096        30 1996833697   SELL       1.0       LMT  1831.800
+       255 2022-06-16 08:56:29.126139      MHG 559306161        30 1996833698   SELL       1.0       LMT     4.066
+       318 2022-06-16 10:26:24.981087      MGC 447767096        30 1996833712    BUY       1.0       LMT  1844.800
 
 Orders Filled
 -------------
 
- fillId localSymbol                myExecId                  datetime side  quantity  price  commission
-    801 XC   JUL 22 0000da9e.62a90c5a.01.01 2022-06-15 09:28:44-05:00  BOT       1.0  777.0        1.90
-    802       MGCQ2 0000da48.62a90b58.01.01 2022-06-15 12:26:27-05:00  SLD       1.0 1819.9        0.77
-    803       MGCQ2 0000da48.62a90ddf.01.01 2022-06-15 13:56:23-05:00  BOT       1.0 1835.2        0.77
+ fillId localSymbol                myExecId                  datetime side  quantity    price  commission
+    804       MGCQ2 0000da48.62aa5a87.01.01 2022-06-16 08:56:25-05:00  SLD       1.0 1831.800        0.77
+    805       MHGN2 0000da48.62aa5a97.01.01 2022-06-16 08:57:57-05:00  SLD       1.0    4.066        1.47
+    806       MGCQ2 0000da48.62aa5cea.01.01 2022-06-16 10:26:23-05:00  BOT       1.0 1844.800        0.77
