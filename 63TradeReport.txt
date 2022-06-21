@@ -1,17 +1,29 @@
 ---------------- Trade Report - Account: Uxxxxx63 ----------------
 
-As at: 2022-06-20 15:57:01 (Chicago)
-(Home currency: AUD - Convert to USD at: 0.6953)
+As at: 2022-06-21 15:57:00 (Chicago)
+(Home currency: AUD - Convert to USD at: 0.6969)
 
-Orders placed and filled after 2022-06-19 15-57-01
+Orders placed and filled after 2022-06-20 15-57-00
 ------------------------------------------------------------------
 
 Orders Placed
 -------------
 
-No orders placed
+ myOrderId                   datetime mySymbol     conId  clientId     permId action  quantity orderType  lmtPrice
+       532 2022-06-21 08:57:24.787440       YW 434140072        63 1676586023   SELL       1.0       LMT 1028.0000
+       664 2022-06-21 09:02:31.136921       YW 434140072        63 1995558611   SELL       1.0       LMT 1024.5000
+      3855 2022-06-21 09:07:13.909416      MHG 559306171        63 1267609721   SELL       1.0       LMT    4.0705
+      3924 2022-06-21 09:12:15.355891      MHG 559306171        63 1267609764   SELL       1.0       LMT    4.0685
+      3990 2022-06-21 09:17:13.063368      MHG 559306161        63 1267609789    BUY       1.0       LMT    4.0585
+      3993 2022-06-21 09:17:15.090126      MHG 559306171        63 1267609790   SELL       1.0       LMT    4.0725
+      4059 2022-06-21 09:22:13.009749      MHG 559306161        63 1267609815    BUY       1.0       LMT    4.0575
 
 Orders Filled
 -------------
 
-No orders filled
+ fillId localSymbol                myExecId                  datetime side  quantity     price  commission
+    819 XW   SEP 22 0000da9e.62b0f665.01.01 2022-06-21 09:02:34-05:00  SLD       1.0 1024.5000        1.90
+    820       MHGU2 0000da48.62b0f129.01.01 2022-06-21 09:12:17-05:00  SLD       1.0    4.0685        1.47
+    821       MHGN2 0000da48.62b0f13c.01.01 2022-06-21 09:17:46-05:00  BOT       1.0    4.0585        1.47
+    822       MHGU2 0000da48.62b0f147.01.01 2022-06-21 09:19:13-05:00  SLD       1.0    4.0725        1.47
+    823       MHGN2 0000da48.62b0f160.01.01 2022-06-21 09:26:53-05:00  BOT       1.0    4.0575        1.47
