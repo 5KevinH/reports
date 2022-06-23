@@ -1,21 +1,23 @@
 ---------------- Trade Report - Account: Uxxxxx30 ----------------
 
-As at: 2022-06-22 15:56:01 (Chicago)
-(Home currency: AUD - Convert to USD at: 0.6934)
+As at: 2022-06-23 15:56:01 (Chicago)
+(Home currency: AUD - Convert to USD at: 0.6902)
 
-Orders placed and filled after 2022-06-21 15-56-01
+Orders placed and filled after 2022-06-22 15-56-01
 ------------------------------------------------------------------
 
 Orders Placed
 -------------
 
- myOrderId                   datetime mySymbol     conId  clientId    permId action  quantity orderType  lmtPrice
-       660 2022-06-22 12:26:22.967327       YC 395594095        30 101887220   SELL       1.0       LMT   703.875
-       723 2022-06-22 12:31:18.196011       YC 395594095        30 101887223   SELL       1.0       LMT   702.375
-       786 2022-06-22 12:36:18.732035       YC 395594095        30 101887225   SELL       1.0       LMT   702.375
+ myOrderId                   datetime mySymbol     conId  clientId     permId action  quantity orderType  lmtPrice
+       849 2022-06-23 08:56:26.737613       YK 341629346        30 1428420351   SELL       1.0       LMT   1438.00
+       852 2022-06-23 08:56:29.396275       YW 434140072        30 1428420352   SELL       1.0       LMT    968.00
+       970 2022-06-23 09:01:17.255492       YW 434140072        30 1428420357   SELL       1.0       LMT    967.75
+      1033 2022-06-23 09:06:17.357859       YW 434140072        30 1428420360   SELL       1.0       LMT    965.50
 
 Orders Filled
 -------------
 
- fillId localSymbol                myExecId                  datetime side  quantity   price  commission
-    821 XC   SEP 22 0000da9e.62b25075.01.01 2022-06-22 12:41:01-05:00  SLD       1.0 702.375         1.9
+ fillId localSymbol                myExecId                  datetime side  quantity  price  commission
+    822 XK   NOV 22 0000da9e.62b39b00.01.01 2022-06-23 08:56:40-05:00  SLD       1.0 1438.0         1.9
+    823 XW   SEP 22 0000da9e.62b39c60.01.01 2022-06-23 09:08:26-05:00  SLD       1.0  965.5         1.9

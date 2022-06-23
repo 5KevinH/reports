@@ -1,19 +1,32 @@
 ---------------- Trade Report - Account: Uxxxxx63 ----------------
 
-As at: 2022-06-22 15:57:00 (Chicago)
-(Home currency: AUD - Convert to USD at: 0.6934)
+As at: 2022-06-23 15:57:00 (Chicago)
+(Home currency: AUD - Convert to USD at: 0.6903)
 
-Orders placed and filled after 2022-06-21 15-57-00
+Orders placed and filled after 2022-06-22 15-57-00
 ------------------------------------------------------------------
 
 Orders Placed
 -------------
 
- myOrderId                   datetime mySymbol     conId  clientId    permId action  quantity orderType  lmtPrice
-       727 2022-06-22 09:27:14.717705      SIL 505405760        63 101887207    BUY       1.0       LMT     21.51
+ myOrderId                   datetime mySymbol     conId  clientId     permId action  quantity orderType    lmtPrice
+       911 2022-06-23 08:57:12.569491       YC 395594095        63 1428420353   SELL       1.0       LMT  682.875000
+       916 2022-06-23 08:57:26.103137       ZF 535971319        63 1428420354    BUY       1.0       LMT  111.984375
+      1092 2022-06-23 09:07:14.481555       YC 395594095        63 1428420363   SELL       1.0       LMT  675.750000
+      1155 2022-06-23 09:12:17.067872       YC 395594095        63 1428420370   SELL       1.0       LMT  673.875000
+      1218 2022-06-23 09:22:19.581636       YC 395594095        63 1428420375   SELL       1.0       LMT  671.875000
+      1281 2022-06-23 09:27:16.754206       YC 395594095        63 1428420388   SELL       1.0       LMT  670.125000
+      4248 2022-06-23 09:32:15.296769       YC 395594095        63 1626634457   SELL       1.0       LMT  674.625000
+      4251 2022-06-23 09:32:17.627901       YK 341629346        63 1626634458   SELL       1.0       LMT 1432.000000
+      4314 2022-06-23 09:37:12.256880       YK 341629346        63 1626634489   SELL       1.0       LMT 1430.500000
 
 Orders Filled
 -------------
 
- fillId localSymbol                myExecId                  datetime side  quantity  price  commission
-    824       SILN2 0000da04.62b2613b.01.01 2022-06-22 09:27:15-05:00  BOT       1.0  21.51        1.27
+ fillId localSymbol                myExecId                  datetime side  quantity       price  commission
+    825 ZF   SEP 22 0000da9e.62b39b0d.01.01 2022-06-23 08:57:25-05:00  BOT       1.0  111.984375        1.52
+    826 XC   SEP 22 0000da9e.62b39cb2.01.01 2022-06-23 09:12:35-05:00  SLD       1.0  673.875000        1.90
+    827 XC   SEP 22 0000da9e.62b39d85.01.01 2022-06-23 09:27:25-05:00  SLD       1.0  670.125000        1.90
+    828 XC   SEP 22 0000da9e.62b39de6.01.01 2022-06-23 09:34:30-05:00  SLD       1.0  674.625000        1.90
+    829 XK   NOV 22 0000da9e.62b39de9.01.01 2022-06-23 09:34:36-05:00  SLD       1.0 1432.000000        1.90
+    830 XK   NOV 22 0000da9e.62b39e18.01.01 2022-06-23 09:37:53-05:00  SLD       1.0 1430.500000        1.90
