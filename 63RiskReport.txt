@@ -1,29 +1,15 @@
 ---------------- Risk Report - Account: Uxxxxx63 ----------------
 
-As at: 2022-06-29 15:57:01 (Chicago)
-(Home currency: AUD - Convert to USD at: 0.6874)
+As at: 2022-06-30 09:27:03 (Chicago)
+(Home currency: AUD - Convert to USD at: 0.6893)
 
-mySymbol localSymbol     price multiplier pointSizeBase position  exposure exposurePCapital
-      E7        E7U2     1.050    62500.0      90928.93        0      0.00              0.0
-      J7        J7U2     0.007  6250000.0    9092892.99       -1 -66928.24            -58.6
-      ZF ZF   SEP 22   111.539     1000.0       1454.86        0      0.00              0.0
-      ZN ZN   SEP 22   117.516     1000.0       1454.86        0      0.00              0.0
-     M2K       M2KU2  1719.700        5.0          7.27        0      0.00              0.0
-     MES       MESU2  3821.750        5.0          7.27        0      0.00              0.0
-     MNQ       MNQU2 11690.000        2.0          2.91        0      0.00              0.0
-     MYM MYM  SEP 22 31017.000        0.5          0.73        0      0.00              0.0
-      YC XC   SEP 22   663.750       10.0         14.55       -3 -28969.96            -25.4
-      YK XK   NOV 22  1479.250       10.0         14.55        0      0.00              0.0
-      YW XW   SEP 22   933.125       10.0         14.55       -1 -13575.69            -11.9
-     MGC       MGCQ2  1820.100       10.0         14.55        0      0.00              0.0
-     MHG       MHGU2     3.769     2500.0       3637.16       -2 -27416.89            -24.0
-     SIL       SILU2    20.760     1000.0       1454.86       -1 -30202.95            -26.5
-     MCL       MCLQ2   109.330      100.0        145.49        0      0.00              0.0
-      QG        QGQ2     6.450     2500.0       3637.16        0      0.00              0.0
+Empty DataFrame
+Columns: [mySymbol, localSymbol, price, multiplier, pointSizeBase, position, exposure, exposurePCapital]
+Index: []
 
-Trading capital: 114159
+Trading capital: 115102
 Initial risk as % of capital: 0.5%
-Sum of abs(Notional exposure as % of capital): 146.4
+Sum of abs(Notional exposure as % of capital): 0.0
 
-Initial margin as % of capital: 14.7%
-Maintenance margin as % of capital: 11.7%
+Initial margin as % of capital: 0.0%
+Maintenance margin as % of capital: 0.0%
