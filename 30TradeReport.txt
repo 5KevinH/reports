@@ -1,22 +1,16 @@
 ---------------- Trade Report - Account: Uxxxxx30 ----------------
-As at: 2022-07-05 15:56:01 (Chicago)
-(Home currency: AUD - Convert to USD at: 0.6796)
+As at: 2022-07-06 15:56:01 (Chicago)
+(Home currency: AUD - Convert to USD at: 0.6781)
 
-Orders placed and filled after 2022-07-04 15-56-01
+Orders placed and filled after 2022-07-05 15-56-01
 --------------------------------------------------
 
 Orders Placed
 -------------
- myOrderId                   datetime mySymbol     conId  clientId     permId action  quantity orderType  lmtPrice
-      1419 2022-07-05 08:56:23.180449      MCL 508994239        30 1822180029   SELL       1.0       LMT     99.95
-      1422 2022-07-05 08:56:26.110763       YK 341629346        30 1822180030   SELL       1.0       LMT   1344.25
-      1485 2022-07-05 11:26:15.268684      M2K 497954515        30 1822180049   SELL       1.0       LMT   1715.10
+No orders placed
 --------------------------------------------------
 
 Orders Filled
 -------------
- fillId localSymbol                myExecId                  datetime side  quantity   price  commission
-    832 XK   NOV 22 0000da9e.62c36777.01.01 2022-07-05 08:56:25-05:00  SLD       1.0 1344.25        1.90
-    833       MCLU2 0000da04.62c37b55.01.01 2022-07-05 08:56:47-05:00  SLD       1.0   99.95        0.77
-    834       M2KU2 0000d8df.62c3e20f.01.01 2022-07-05 11:26:15-05:00  SLD       1.0 1715.10        0.57
+No orders filled
 --------------------------------------------------
