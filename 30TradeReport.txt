@@ -1,8 +1,8 @@
 ---------------- Trade Report - Account: Uxxxxx30 ----------------
-As at: 2022-07-11 15:56:02 (Chicago)
-(Home currency: AUD - Convert to USD at: 0.6728)
+As at: 2022-07-12 15:56:02 (Chicago)
+(Home currency: AUD - Convert to USD at: 0.6761)
 
-Orders placed and filled after 2022-07-10 15-56-02
+Orders placed and filled after 2022-07-11 15-56-02
 --------------------------------------------------
 
 Orders Placed
@@ -12,5 +12,6 @@ No orders placed
 
 Orders Filled
 -------------
-No orders filled
+ fillId localSymbol                myExecId                  datetime side  quantity   price  commission
+    838     AUD.USD 000118f3.62cb3f34.01.01 2022-07-12 15:20:36-05:00  BOT   25000.0 0.67563      2.9696
 --------------------------------------------------
