@@ -1,20 +1,22 @@
 ---------------- Trade Report - Account: Uxxxxx30 ----------------
-As at: 2022-07-19 15:01:02 (Chicago)
-(Home currency: AUD - Convert to USD at: 0.6898)
+As at: 2022-07-20 15:56:02 (Chicago)
+(Home currency: AUD - Convert to USD at: 0.6885)
 
-Orders placed and filled after 2022-07-18 15-08-00
+Orders placed and filled after 2022-07-19 16-08-00
 --------------------------------------------------
 
 Orders Placed
 -------------
- myOrderId                   datetime mySymbol     conId  clientId     permId action  quantity orderType  lmtPrice
-      2070 2022-07-19 08:56:21.802019      M2K 497954515        30 1154075225    BUY       1.0       LMT    1774.3
-      2136 2022-07-19 14:56:17.914796      MYM 515416556        30 1154075240    BUY       1.0       LMT   31794.0
+ myOrderId                   datetime mySymbol     conId  clientId    permId action  quantity orderType     lmtPrice
+      4698 2022-07-20 10:56:15.719285      MNQ 497954580        30 159934104    BUY       1.0       LMT 12496.250000
+      4767 2022-07-20 11:01:15.454278       ZF 535971319        30 159934114   SELL       1.0       LMT   111.562500
+      4836 2022-07-20 11:06:17.637756       ZF 535971319        30 159934124   SELL       1.0       LMT   111.546875
+      4905 2022-07-20 11:11:17.060660       ZF 535971319        30 159934134   SELL       1.0       LMT   111.546875
 --------------------------------------------------
 
 Orders Filled
 -------------
- fillId localSymbol                myExecId                  datetime side  quantity   price  commission
-    847       M2KU2 0000d8df.62d6089f.01.01 2022-07-19 08:56:23-05:00  BOT       1.0  1774.3        0.57
-    848 MYM  SEP 22 0000da72.62d5e58a.01.01 2022-07-19 14:57:35-05:00  BOT       1.0 31794.0        0.57
+ fillId localSymbol                myExecId                  datetime side  quantity        price  commission
+    849       MNQU2 0000d94c.62d78d1f.01.01 2022-07-20 10:56:14-05:00  BOT       1.0 12496.250000        0.57
+    850 ZF   SEP 22 0000da9e.62d72fe6.01.01 2022-07-20 11:11:59-05:00  SLD       1.0   111.546875        1.52
 --------------------------------------------------
