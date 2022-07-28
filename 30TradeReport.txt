@@ -1,23 +1,18 @@
 ---------------- Trade Report - Account: Uxxxxx30 ----------------
-As at: 2022-07-27 15:56:02 (Chicago)
-(Home currency: AUD - Convert to USD at: 0.6996)
+As at: 2022-07-28 15:56:02 (Chicago)
+(Home currency: AUD - Convert to USD at: 0.6981)
 
-Orders placed and filled after 2022-07-26 16-08-00
+Orders placed and filled after 2022-07-27 16-08-00
 --------------------------------------------------
 
 Orders Placed
 -------------
- myOrderId                   datetime mySymbol     conId  clientId     permId action  quantity orderType  lmtPrice
-      5469 2022-07-27 08:56:20.911015      M2K 497954515        30 1576061600    BUY       1.0       LMT  1818.600
-      5472 2022-07-27 08:56:23.848823      MES 497954518        30 1576061601    BUY       1.0       LMT  3968.000
-      5475 2022-07-27 08:56:26.791061       YC 345852367        30 1576061602    BUY       1.0       LMT   600.500
-      5544 2022-07-27 09:01:20.720152       YC 345852367        30 1576061615    BUY       1.0       LMT   600.375
+ myOrderId                   datetime mySymbol     conId  clientId    permId action  quantity orderType   lmtPrice
+      5613 2022-07-28 08:56:20.266569       ZF 535971319        30 347218176    BUY       1.0       LMT 113.765625
 --------------------------------------------------
 
 Orders Filled
 -------------
- fillId localSymbol                myExecId                  datetime side  quantity    price  commission
-    861       M2KU2 0000d8df.62e08e6b.01.01 2022-07-27 08:56:19-05:00  BOT       1.0 1818.600        0.57
-    862       MESU2 0000d8df.62e08e6c.01.01 2022-07-27 08:56:23-05:00  BOT       1.0 3968.000        0.57
-    863 XC   DEC 22 0000da9e.62e0680a.01.01 2022-07-27 09:01:19-05:00  BOT       1.0  600.375        1.90
+ fillId localSymbol                myExecId                  datetime side  quantity      price  commission
+    864 ZF   SEP 22 0000da9e.62e1bc6f.01.01 2022-07-28 08:56:29-05:00  BOT       1.0 113.765625        1.52
 --------------------------------------------------
